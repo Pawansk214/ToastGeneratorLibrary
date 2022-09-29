@@ -37,7 +37,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.Pawansk214'
+                groupId = 'com.gitlab.vtnetzwelt.pawan.karki'
                 artifactId = 'toast'
                 version = '1.0.0'
             }
